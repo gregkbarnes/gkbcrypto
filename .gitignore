@@ -1,5 +1,7 @@
 # ENV files
 .env
 node_modules/
+
+# SSH
 gkblinux
 gkblinux.pub
